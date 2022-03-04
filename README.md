@@ -2,10 +2,13 @@
 # Crypto Tracker
 This project uses axios to call the <a href="https://www.coingecko.com/en/api">coingecko api</a> to pull crypto data. 
 
+<img src="src/demo.png" alt="mainscreen">
+
+
 Follow the instructions below to run locally, and if you want to edit the amount of data displayed head to the app.js file and update the url to your desired amount.
 
 
-i.e. 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page={changeAmountHere}&page=1&sparkline=false'
+i.e. https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page={changeAmountHere}&page=1&sparkline=false
 
 
 # Getting Started with Create React App
